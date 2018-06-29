@@ -12,11 +12,13 @@ syn keyword Keyword
             \ install
             \ item
             \ items
+            \ open
             \ parameter
             \ reply
             \ require
             \ set
             \ using
+            \ var
             \ wait
             \ when
             \ with
