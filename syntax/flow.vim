@@ -1,6 +1,7 @@
 "Keywords
 syn keyword Keyword
             \ define
+            \ else
             \ end
             \ example
             \ expect
@@ -12,6 +13,8 @@ syn keyword Keyword
             \ install
             \ item
             \ items
+            \ media
+            \ menu
             \ open
             \ parameter
             \ reply
