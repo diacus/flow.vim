@@ -35,6 +35,7 @@ syn keyword Statement
             \ if
             \ next
             \ pick
+            \ read
             \ repeat
             \ say
             \ show
