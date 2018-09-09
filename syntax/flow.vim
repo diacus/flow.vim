@@ -5,7 +5,6 @@ syn keyword Keyword
             \ end
             \ example
             \ expect
-            \ fallback
             \ from
             \ given
             \ has
@@ -30,9 +29,11 @@ syn keyword Statement
             \ ask
             \ call
             \ change
+            \ context
             \ do
             \ done
             \ if
+            \ keeping
             \ next
             \ pick
             \ read
@@ -45,10 +46,12 @@ syn keyword Type
             \ card
             \ carousel
             \ button
+            \ fallback
             \ flow
             \ entity
             \ integration
             \ intent
+            \ qna
 
 syn keyword Operator
             \ and
