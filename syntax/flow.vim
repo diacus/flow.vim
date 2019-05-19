@@ -20,7 +20,6 @@ syn keyword Keyword
             \ require
             \ set
             \ using
-            \ var
             \ wait
             \ when
             \ with
@@ -43,15 +42,17 @@ syn keyword Statement
             \ take
 
 syn keyword Type
+            \ array
+            \ button
             \ card
             \ carousel
-            \ button
+            \ entity
             \ fallback
             \ flow
-            \ entity
             \ integration
             \ intent
             \ qna
+            \ var
 
 syn keyword Operator
             \ and
